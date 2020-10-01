@@ -6,7 +6,7 @@ const MainPage = () => {
     <div>
       <h3>Welcome to React Router Tutorial.</h3>
       <small> Main Page</small>
-      <Link to="/users"></Link>
+      <Link to="/users">Show a list of name</Link>
     </div>
   );
 };
